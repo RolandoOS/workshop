@@ -12,4 +12,4 @@ src for source code
    1. item1
       2. item 2
 
-## Aded this stuff in GitHub
+## Added this stuff in GitHub
