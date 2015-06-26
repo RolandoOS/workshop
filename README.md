@@ -1,7 +1,3 @@
-<<<<HEAD
-src for source code
->>>>
-
 # header 1
 
 ## header 2
