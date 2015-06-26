@@ -1,4 +1,6 @@
+<<<<HEAD
 src for source code
+>>>>
 
 # header 1
 
